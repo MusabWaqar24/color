@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\css-exams\\\\page.tsx -> @monaco-editor/react\":{\"id\":\"app\\\\css-exams\\\\page.tsx -> @monaco-editor/react\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_monaco-editor_react_dist_index_mjs.js\"]}}"
